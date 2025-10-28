@@ -216,7 +216,7 @@ class GestionTaches {
     }
 }
 ```
-
+Ce programme gère une liste de tâches à faire en utilisant une LinkedList. On peut ajouter des tâches, marquer la première tâche comme terminée, et afficher toutes les tâches. La LinkedList est idéale pour cette utilisation car on travaille surtout avec le début de la liste.
 
 ### Quiz sur les Listes (ArrayList et LinkedList)
 
@@ -813,6 +813,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
