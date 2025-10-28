@@ -322,6 +322,12 @@ class GestionEtudiants {
     }
 }
 ```
+Etudiant{nom='Sara', numero=102}
+Etudiant{nom='Ali', numero=101}
+
+L'exécution affichera seulement 2 étudiants : Ali (101) et Sara (102).
+Le doublon "Ali (101)" est automatiquement éliminé par le HashSet.
+Cela fonctionne grâce aux méthodes equals() et hashCode() qui détectent les doublons.
 
 
 ***
@@ -814,6 +820,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
