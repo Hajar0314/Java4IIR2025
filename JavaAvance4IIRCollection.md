@@ -138,6 +138,7 @@ class GestionBibliotheque {
 }
 ```
 
+Ce programme Java permet de créer et gérer une collection de livres dans une bibliothèque virtuelle. La classe Livre stocke les informations de base comme le titre, l'auteur et l'année de publication. La classe GestionBibliotheque offre des fonctionnalités pour ajouter de nouveaux livres et afficher l'ensemble du catalogue.
 
 ***
 
@@ -812,6 +813,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
