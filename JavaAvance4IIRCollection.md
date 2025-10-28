@@ -4,6 +4,7 @@
 
 *Destiné aux étudiants de 4 IIR - EMSI Casablanca*
 fait par: Hajar Belhachmi
+<img src="HajarBelhachmi.photo.jpeg" style="height:464px;margin-right:432px"/>
 ***
 
 ## Introduction
@@ -813,6 +814,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
